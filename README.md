@@ -1,0 +1,1 @@
+CS2 not letting me play surf and making me play other games to play surf (roblox surf which does not have binds for turning smh). Needed a macro immediately so I created this simple script for logitech mouse using lua.
